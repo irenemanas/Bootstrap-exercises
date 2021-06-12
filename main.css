@@ -1,14 +1,5 @@
-.red-text {
-  color: red;
-}
-
 h2 {
-  font-family: Lobster, Monospace;
-}
-
-p {
-  font-size: 16px;
-  font-family: Monospace;
+  font-family: "Lobster", cursive;
 }
 
 .thick-green-border {
@@ -17,7 +8,6 @@ p {
   border-style: solid;
   border-radius: 50%;
 }
-
-.smaller-image {
-  width: 100px;
+#h2-font {
+  font-family: "Lobster", cursive;
 }
